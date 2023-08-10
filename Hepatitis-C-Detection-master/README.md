@@ -1,7 +1,5 @@
 # Hepatitis-C-Detection
 
-![Demo](https://drive.google.com/file/d/15DAqsguxjZ93NxuPnqlDKueVGKr0Z8qu/view?usp=sharing)
-
 ### Context
 
 The data set contains laboratory values of blood donors and Hepatitis C patients and demographic values like age. The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/HCV+data
